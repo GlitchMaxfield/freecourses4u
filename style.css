@@ -47,3 +47,18 @@ background-color: black;
 a:visited {
 background-color: yellow;
 }
+
+
+//Link Color Code
+a:link {
+color: gray;
+}
+a:visited {
+color: green;
+}
+a:hover {
+color: purple;
+}
+a:active {
+color: teal;
+}
