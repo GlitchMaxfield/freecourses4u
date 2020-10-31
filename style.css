@@ -47,3 +47,25 @@ background-color: black;
 a:visited {
 background-color: yellow;
 }
+
+
+//BUTTON B
+}
+a.button {
+background-color: red;
+color: white;
+padding: 1.5em 1em;
+text-decoration: none;
+text-transform: uppercase;
+}
+a:hover {
+background-color: #red;
+}
+
+a:active {
+background-color: black;
+}
+
+a:visited {
+background-color: yellow;
+}
